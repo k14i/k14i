@@ -1,6 +1,6 @@
-### Hi there 👋
+![KEEP CALM and WRITE CODE](./assets/images/keep-calm-and-write-code-1500x200px.png)
 
-#### My organizations
+## My organizations
 
 * [k14i-Azure](https://github.com/k14i-Azure)
   - Microsoft Azure related repositories
@@ -9,7 +9,7 @@
 * [Shinjuku.ex](https://github.com/Shinjuku-ex)
   - Elixir community
 
-#### My status
+## My status
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=k14i&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
