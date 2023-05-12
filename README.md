@@ -21,9 +21,13 @@
   - Blog: [kt.log](https://k14i.github.io/)
   - [Qiita](https://qiita.com/kske_t)
   - [Zenn](https://zenn.dev/k14i)
+  - [note](https://note.com/kske)
+  - [Medium](https://medium.com/@kth)
 * SNS
-  - [Twitter](https://twitter.com/kske_t)
-  - [Facebook](https://www.facebook.com/kske.kt/)
   - [LinkedIn](https://www.linkedin.com/in/keisuketakahashi/)
+  - [Facebook](https://www.facebook.com/kske.kt/)
+  - [Instagram](https://www.instagram.com/kske_t/)
+  - [Twitter](https://twitter.com/kske_t)
+  - [Quora](https://jp.quora.com/profile/Keisuke-Takahashi-6)
 * [Gist](https://gist.github.com/k14i)
 
