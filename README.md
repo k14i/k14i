@@ -1,6 +1,6 @@
 ![KEEP CALM and WRITE CODE](./assets/images/keep-calm-and-write-code-1500x200px.png)
 
-## My organizations
+## My GitHub Organizations
 
 * [k14i-Azure](https://github.com/k14i-Azure)
   - Microsoft Azure related repositories
@@ -14,4 +14,16 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=k14i&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k14i&langs_count=10&hide=html&layout=compact&exclude_repo=k14i,k14i.github.io,dotfiles,blog,doc-in-sphinx,.sandbox,dockerfiles,homebrew)](https://github.com/anuraghazra/github-readme-stats)
+
+## Links
+
+* Articles
+  - Blog: [kt.log](https://k14i.github.io/)
+  - [Qiita](https://qiita.com/kske_t)
+  - [Zenn](https://zenn.dev/k14i)
+* SNS
+  - [Twitter](https://twitter.com/kske_t)
+  - [Facebook](https://www.facebook.com/kske.kt/)
+  - [LinkedIn](https://www.linkedin.com/in/keisuketakahashi/)
+* [Gist](https://gist.github.com/k14i)
 
